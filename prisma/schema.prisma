@@ -1,0 +1,206 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// 1. Military Vehicle Platform (Static List)
+model MilitaryVehiclePlatform {
+  id          String  @id @default(uuid())
+  name        String  @unique
+  href        String  @unique
+  description String? // Optional description of the item
+  Store       Store[]
+}
+
+// 2. Station
+model Station {
+  id       String  @id @default(uuid())
+  name     String  @unique // E.g., "East Coast Station", "HQ Station"
+  location String // Description or lat/long
+  stores   Store[] // One to Many relationship
+  users    User[] //One to many users at one station
+
+  ReplenishmentLog ReplenishmentLog[]
+
+  OutboundMovementLog OutboundMovementLog[]
+}
+
+// 3. Store
+model Store {
+  id              String                  @id @default(uuid())
+  stationId       String // Foreign key referencing the station.
+  station         Station                 @relation(fields: [stationId], references: [id], onDelete: Cascade) //Many to one relationship to the Station
+  platformId      String // Foreign Key linking this Store to a Platform (using String id now, which I think will not work properly)
+  platform        MilitaryVehiclePlatform @relation(fields: [platformId], references: [id], onDelete: NoAction) //One to one platform
+  numberOfRows    Int
+  numberOfColumns Int
+  shelves         Shelf[] // One-to-many with Shelves
+  items           Item[] // Items inside the store
+
+  @@unique([stationId, platformId])
+  @@index([platformId]) // Platform id index
+  @@index([stationId]) // station id index
+}
+
+// 4. Shelf
+model Shelf {
+  id              String      @id @default(uuid())
+  storeId         String // Foreign key to the store
+  store           Store       @relation(fields: [storeId], references: [id], onDelete: Cascade)
+  loc_row         Int
+  loc_column      Int
+  numberOfRows    Int         @default(6)
+  numberOfColumns Int         @default(6)
+  inventory       Inventory[] // One to Many with Inventory
+
+  @@unique([storeId, loc_row, loc_column])
+  @@index([storeId])
+}
+
+// 5. Item Category (Enumerated Set)
+enum ItemCategory {
+  PRS
+  PCS
+  KGS
+  LTR
+  MTR
+  PKG
+}
+
+// 6. Item
+model Item {
+  id            String       @id @default(uuid())
+  storeId       String
+  store         Store        @relation(fields: [storeId], references: [id], onDelete: Cascade) //one to one relationship with the store
+  name          String //  Name or description of the item
+  unitOfMeasure ItemCategory // Enum based set for categorizing each item's UOM
+  description   String? // Optional description of the item
+  reorderPoint  Float // Minimum quantity needed
+
+  inventory         Inventory[] // one to many relationship with the Inventory
+  outboundMovements OutboundMovementLog[] // One-to-many relationship with OutboundMovementLog
+  replenishments    ReplenishmentLog[] // One-to-many relationship with ReplenishmentLog
+
+  @@unique([storeId, name])
+  @@index([storeId]) // indexing the foregin key
+}
+
+// 7. Inventory
+model Inventory {
+  id          String   @id @default(uuid())
+  itemId      String   @unique // Foreign Key to the item
+  item        Item     @relation(fields: [itemId], references: [id], onDelete: Cascade) // Many-to-one relationship with item
+  shelfId     String // Foreign Key to shelf
+  loc_row     Int // Reference to the shelf grid (Is this the best place for these to be? Idk)
+  loc_column  Int // Reference to the shelf grid (Is this the best place for these to be? Idk)
+  shelf       Shelf    @relation(fields: [shelfId], references: [id], onDelete: Cascade) // many to one relationship to shelf
+  quantity    Float // Number of items in inventory
+  lastUpdated DateTime @default(now()) @updatedAt
+
+  @@unique([shelfId, loc_row, loc_column])
+  @@index([itemId]) // indexing foreign key
+  @@index([shelfId]) // indexing foreign key
+}
+
+enum UserRole {
+  DEV
+  ADMIN
+  USER
+  GUEST
+}
+
+enum UserRank {
+  CIV
+  LT2
+  LT
+  CPT
+  MAJ
+  LTC
+  COL
+  BG
+  MG
+  LTG
+  GEN
+}
+
+// 8. User
+model User {
+  id             String   @id @default(uuid())
+  username       String   @unique
+  hashedPassword String // Hashed password
+  fullName       String // Full Name
+  email          String? // User's email
+  role           UserRole // User role
+  rank           UserRank // User rank
+  stationId      String
+  station        Station  @relation(fields: [stationId], references: [id], onDelete: Cascade) // Users working in specific stations
+
+  outboundMovements    OutboundMovementLog[] // One to many user relationship
+  replenishments       ReplenishmentLog[] // One to many user relationship
+  transactionalRecords TransactionalRecordLog[] // One to many user relationship
+
+  @@index([stationId]) // indexing the foregin key
+}
+
+// 9. Outbound Movement Log
+model OutboundMovementLog {
+  id              String   @id @default(uuid())
+  timestamp       DateTime @default(now()) // When the movement happened
+  userId          String // Foreign key for user
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade) // Many-to-one relationship with User
+  itemId          String // Foreign key for item
+  item            Item     @relation(fields: [itemId], references: [id], onDelete: Cascade) // Many-to-one relationship with Item
+  quantityMoved   Float
+  // movementType     String // Type of movement (e.g., "outbound")
+  reason          String // Reason for movement, optional
+  targetStationId String? // target Id to location
+  station         Station? @relation(fields: [targetStationId], references: [id], onDelete: SetNull)
+
+  @@index([userId])
+  @@index([itemId])
+}
+
+// 10. Replenishment Log
+model ReplenishmentLog {
+  id                  String   @id @default(uuid())
+  timestamp           DateTime @default(now()) // When the replenishment happened
+  userId              String // Foreign key for user
+  user                User     @relation(fields: [userId], references: [id], onDelete: Cascade) //many to one with the user
+  itemId              String // Foreign key to Item
+  item                Item     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+  quantityReplenished Float
+  // movementType        String // Type of movement (e.g., "replenishment")
+  reason              String // Reason for movement, optional
+  sourceStationId     String? // Foreign key for the source, if any
+  station             Station? @relation(fields: [sourceStationId], references: [id], onDelete: SetNull) // Optional source station
+
+  @@index([userId]) // indexing foreign key
+  @@index([itemId]) // indexing foreign key
+}
+
+enum LogType {
+  RPL
+  SUP
+}
+
+// 11. Transactional Record Log
+model TransactionalRecordLog {
+  id         String   @id @default(uuid())
+  timestamp  DateTime @default(now())
+  logType    LogType // Type of Log
+  logDetails String // Detailed record
+  userId     String? // optional userId that did the event
+  user       User?    @relation(fields: [userId], references: [id], onDelete: SetNull) // Optional user object to know if there is any user performing event
+
+  @@index([userId]) // indexing optional user id for optimization
+}

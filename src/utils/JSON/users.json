@@ -1,0 +1,94 @@
+{
+    "users": [
+        {
+            "username": "hydra 093",
+            "password": "qwerty093",
+            "fullName": "MANZI David Mercy",
+            "email": "manzidavid093@gmail.com",
+            "role": "DEV",
+            "rank": "CIV",
+            "stationName": "KRAKEN DEEP Naval Platform"
+        },
+        {
+            "username": "phoenix 101",
+            "password": "000000",
+            "fullName": "KARUHANGA Eugene",
+            "email": "",
+            "role": "ADMIN",
+            "rank": "MAJ",
+            "stationName": "ATLAS SENTINEL Base"
+        },
+        {
+            "username": "falcon 207",
+            "password": "rwa2024",
+            "fullName": "UWIMANA Jean Paul",
+            "email": "jeanpaul.uwimana@gmail.com",
+            "role": "USER",
+            "rank": "LT",
+            "stationName": "PHOENIX NEXUS Station"
+        },
+        {
+            "username": "atlas 314",
+            "password": "kigali2022",
+            "fullName": "MUKAMANA Claire",
+            "email": "claire.mukamana@gmail.com",
+            "role": "ADMIN",
+            "rank": "CPT",
+            "stationName": "OLYMPUS PRIME Command"
+        },
+        {
+            "username": "titan 405",
+            "password": "impala2024",
+            "fullName": "NDAYISHIMIYE Eric",
+            "email": "eric.ndayishimiye@gmail.com",
+            "role": "USER",
+            "rank": "LT2",
+            "stationName": "VALHALLA Forward Operating Base"
+        },
+        {
+            "username": "orion 516",
+            "password": "kgli2020",
+            "fullName": "INGABIRE Grace",
+            "email": "",
+            "role": "USER",
+            "rank": "LT",
+            "stationName": "KRAKEN DEEP Naval Platform"
+        },
+        {
+            "username": "nova 628",
+            "password": "rweru2022",
+            "fullName": "HAKIZIMANA Patrick",
+            "email": "patrick.hakizimana@gmail.com",
+            "role": "ADMIN",
+            "rank": "COL",
+            "stationName": "ATLAS SENTINEL Base"
+        },
+        {
+            "username": "cipher 739",
+            "password": "kgl2024",
+            "fullName": "UMUTONI Sarah",
+            "email": "sarah.umutoni@gmail.com",
+            "role": "USER",
+            "rank": "LT2",
+            "stationName": "PHOENIX NEXUS Station"
+        },
+        {
+            "username": "vector 842",
+            "password": "rwiza2024",
+            "fullName": "MUGISHA Robert",
+            "email": "robert.mugisha@gmail.com",
+            "role": "USER",
+            "rank": "LT",
+            "stationName": "OLYMPUS PRIME Command"
+        },
+        {
+            "username": "echo 953",
+            "password": "kgl2024",
+            "fullName": "ISHIMWE Alice",
+            "email": "",
+            "role": "ADMIN",
+            "rank": "MG",
+            "stationName": "VALHALLA Forward Operating Base"
+        }
+    ]
+}

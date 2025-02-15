@@ -1,0 +1,24 @@
+{
+    "stations": [
+        {
+            "name": "OLYMPUS PRIME Command",
+            "location": "37°58'N 23°43'E"
+        },
+        {
+            "name": "VALHALLA Forward Operating Base",
+            "location": "60°23'N 5°19'E"
+        },
+        {
+            "name": "PHOENIX NEXUS Station",
+            "location": "33°27'N 112°04'W"
+        },
+        {
+            "name": "KRAKEN DEEP Naval Platform",
+            "location": "25°44'N 80°11'W"
+        },
+        {
+            "name": "ATLAS SENTINEL Base",
+            "location": "36°51'N 76°17'W"
+        }
+    ]
+}

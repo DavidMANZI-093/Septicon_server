@@ -1,0 +1,214 @@
+{
+    "shelves": [
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "loc_row": 3,
+            "loc_column": 2
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 1,
+            "loc_column": 1
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 1,
+            "loc_column": 2
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 2,
+            "loc_column": 1
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 2,
+            "loc_column": 2
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 3,
+            "loc_column": 1
+        },
+        {
+            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "loc_row": 3,
+            "loc_column": 2
+        }
+    ]
+}
