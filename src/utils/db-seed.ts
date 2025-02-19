@@ -167,7 +167,10 @@ const seedShelves = async () => {
     }));
 };
 
-// seedShelves();
+seedShelves();
+
+// I'm configuring the seeding algorithm so that it just wipes all the data and we start
+// Freshhh...
 
 const seedItems = async () => {
 
@@ -181,40 +184,40 @@ const seedItems = async () => {
             }
         });
     
-        await Promise.all(itemsData.map( async (item: { storeId: string; name: string; unitOfMeasure: any; description: string; reorderPoint: number; }) => {
+        // await Promise.all(itemsData.map( async (item: { storeId: string; name: string; unitOfMeasure: any; description: string; reorderPoint: number; }) => {
     
-            try {
+        //     try {
     
-                await prisma.item.upsert({
-                    where: {
-                        id: randomUUID(),
-                    },
-                    update: {
-                        storeId: item.storeId,
-                        name: item.name,
-                        unitOfMeasure: item.unitOfMeasure,
-                        description: item.description,
-                        reorderPoint: item.reorderPoint,
-                    },
-                    create: {
-                        id: randomUUID(),
-                        storeId: item.storeId,
-                        name: item.name,
-                        unitOfMeasure: item.unitOfMeasure,
-                        description: item.description,
-                        reorderPoint: item.reorderPoint,
-                    }
-                });
+        //         await prisma.item.upsert({
+        //             where: {
+        //                 id: randomUUID(),
+        //             },
+        //             update: {
+        //                 storeId: item.storeId,
+        //                 name: item.name,
+        //                 unitOfMeasure: item.unitOfMeasure,
+        //                 description: item.description,
+        //                 reorderPoint: item.reorderPoint,
+        //             },
+        //             create: {
+        //                 id: randomUUID(),
+        //                 storeId: item.storeId,
+        //                 name: item.name,
+        //                 unitOfMeasure: item.unitOfMeasure,
+        //                 description: item.description,
+        //                 reorderPoint: item.reorderPoint,
+        //             }
+        //         });
     
-                console.log(`${item.name} - Item data seeded successfully!`);
+        //         console.log(`${item.name} - Item data seeded successfully!`);
                 
-            } catch (error) {
+        //     } catch (error) {
     
-                console.error(`Error seeding Item data. ${error}`);
+        //         console.error(`Error seeding Item data. ${error}`);
     
-            }
+        //     }
     
-        }));
+        // }));
 
     }
 
@@ -241,7 +244,7 @@ const seedItems = async () => {
 
 };
 
-// seedItems();
+seedItems();
 
 const seedInventory = async () => {
 
@@ -256,89 +259,89 @@ const seedInventory = async () => {
         console.log('Successfully erased all Replenishment Log records!');
         console.log('Successfully erased all Transactional Log records!');
 
-        const stores = await prisma.store.findMany();
+        // const stores = await prisma.store.findMany();
 
-        for (const store of stores) {
+        // for (const store of stores) {
 
-            const shelves = await prisma.shelf.findMany({ where: { storeId: store.id } });
+        //     const shelves = await prisma.shelf.findMany({ where: { storeId: store.id } });
 
-            const items = await prisma.item.findMany({
-                where: {
-                    storeId: store.id,
-                }
-            });
+        //     const items = await prisma.item.findMany({
+        //         where: {
+        //             storeId: store.id,
+        //         }
+        //     });
 
-            const usedStoreItems = new Set();
-            const assignedItems = new Set(); // Track used items to avoid duplicates
+        //     const usedStoreItems = new Set();
+        //     const assignedItems = new Set(); // Track used items to avoid duplicates
 
-            for (const shelf of shelves) {
+        //     for (const shelf of shelves) {
                 
-                for (let row = 1; row <= shelf.numberOfRows; ++row) {
+        //         for (let row = 1; row <= shelf.numberOfRows; ++row) {
                     
-                    for (let col = 1; col <= shelf.numberOfColumns; ++col) {
+        //             for (let col = 1; col <= shelf.numberOfColumns; ++col) {
                         
-                        let randomItem;
+        //                 let randomItem;
                         
-                        // Keep picking a random item until we get one that hasn't been used on this shelf
-                        do {
-                            randomItem = items[Math.floor(Math.random() * items.length)];
-                        } while ((assignedItems.has(randomItem.id) || usedStoreItems.has(randomItem.id)) && assignedItems.size < items.length && usedStoreItems.size < items.length);
+        //                 // Keep picking a random item until we get one that hasn't been used on this shelf
+        //                 do {
+        //                     randomItem = items[Math.floor(Math.random() * items.length)];
+        //                 } while ((assignedItems.has(randomItem.id) || usedStoreItems.has(randomItem.id)) && assignedItems.size < items.length && usedStoreItems.size < items.length);
 
-                        if (usedStoreItems.has(randomItem.id)) {
-                            console.log(` ** Skipping assignment for ${randomItem.name} as it's already used across the store.`);
-                            continue;
-                        }
+        //                 if (usedStoreItems.has(randomItem.id)) {
+        //                     console.log(` ** Skipping assignment for ${randomItem.name} as it's already used across the store.`);
+        //                     continue;
+        //                 }
 
-                        assignedItems.add(randomItem.id);
-                        usedStoreItems.add(randomItem.id);
+        //                 assignedItems.add(randomItem.id);
+        //                 usedStoreItems.add(randomItem.id);
 
-                        await prisma.inventory.create({
-                            data: {
-                                id: randomUUID(),
-                                itemId: randomItem.id,
-                                shelfId: shelf.id,
-                                loc_row: row,
-                                loc_column: col,
-                                quantity: randomItem.reorderPoint * 10,
-                            },
-                        });
+        //                 await prisma.inventory.create({
+        //                     data: {
+        //                         id: randomUUID(),
+        //                         itemId: randomItem.id,
+        //                         shelfId: shelf.id,
+        //                         loc_row: row,
+        //                         loc_column: col,
+        //                         quantity: randomItem.reorderPoint * 10,
+        //                     },
+        //                 });
     
-                        await prisma.replenishmentLog.upsert({
-                            where: {
-                                id: randomUUID(),
-                            },
-                            update: {},
-                            create: {
-                                id: randomUUID(),
-                                userId: (await prisma.user.findUnique({where: {username: 'hydra 093'}}))!.id,
-                                itemId: randomItem.id,
-                                quantityReplenished: (Math.floor((Math.random() * randomItem.reorderPoint)) * 5.5),
-                                reason: 'System Test',
-                            }
-                        });
+        //                 await prisma.replenishmentLog.upsert({
+        //                     where: {
+        //                         id: randomUUID(),
+        //                     },
+        //                     update: {},
+        //                     create: {
+        //                         id: randomUUID(),
+        //                         userId: (await prisma.user.findUnique({where: {username: 'hydra 093'}}))!.id,
+        //                         itemId: randomItem.id,
+        //                         quantityReplenished: (Math.floor((Math.random() * randomItem.reorderPoint)) * 5.5),
+        //                         reason: 'System Test',
+        //                     }
+        //                 });
 
-                        await prisma.transactionalRecordLog.upsert({
-                            where: {
-                                id: randomUUID(),
-                            },
-                            update: {},
-                            create: {
-                                id: randomUUID(),
-                                logType: 'RPL',
-                                logDetails: 'System Test',
-                                userId: (await prisma.user.findUnique({where: {username: 'hydra 093'}}))!.id,
-                            }
-                        });
+        //                 await prisma.transactionalRecordLog.upsert({
+        //                     where: {
+        //                         id: randomUUID(),
+        //                     },
+        //                     update: {},
+        //                     create: {
+        //                         id: randomUUID(),
+        //                         logType: 'RPL',
+        //                         logDetails: 'System Test',
+        //                         userId: (await prisma.user.findUnique({where: {username: 'hydra 093'}}))!.id,
+        //                     }
+        //                 });
 
-                        console.log(`${randomItem.name} - Item data seeded successfully!`);
+        //                 console.log(`${randomItem.name} - Item data seeded successfully!`);
 
-                    }
+        //             }
 
-                }
+        //         }
 
-            }
+        //     }
 
-        }
+        // }
 
     } catch (error) {
 
