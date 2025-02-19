@@ -241,7 +241,7 @@ const seedItems = async () => {
 
 };
 
-// seedItems();
+seedItems();
 
 // We're going to tweek the seeding algorithm to only wipe out the database so we start
 // freshhhh...
@@ -351,4 +351,4 @@ const seedInventory = async () => {
 
 };
 
-seedInventory();
+// seedInventory();
