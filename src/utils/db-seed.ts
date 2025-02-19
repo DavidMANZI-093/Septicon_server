@@ -167,7 +167,7 @@ const seedShelves = async () => {
     }));
 };
 
-seedShelves();
+// seedShelves();
 
 // I'm configuring the seeding algorithm so that it just wipes all the data and we start
 // Freshhh...
@@ -351,4 +351,4 @@ const seedInventory = async () => {
 
 };
 
-seedInventory();
+// seedInventory();
