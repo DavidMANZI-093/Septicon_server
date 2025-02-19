@@ -241,7 +241,7 @@ const seedItems = async () => {
 
 };
 
-seedItems();
+// seedItems();
 
 const seedInventory = async () => {
 
@@ -348,4 +348,4 @@ const seedInventory = async () => {
 
 };
 
-// seedInventory();
+seedInventory();
