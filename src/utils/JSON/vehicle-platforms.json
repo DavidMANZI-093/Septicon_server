@@ -2,31 +2,38 @@
     "militaryVehiclePlatforms": [
         {
             "name": "Tank - 54/55",
-            "description": "A versatile, main battle tank offering a balance of firepower, protection, and mobility.  A mainstay in many armored forces."
+            "description": "A versatile, main battle tank offering a balance of firepower, protection, and mobility.  A mainstay in many armored forces.",
+            "href": "/stores/tank-54-55"
         },
         {
             "name": "Arma 8x8",
-            "description": "A robust, multi-role, wheeled armored vehicle designed for troop transport, reconnaissance, and combat support."
+            "description": "A robust, multi-role, wheeled armored vehicle designed for troop transport, reconnaissance, and combat support.",
+            "href": "/stores/arma-8x8"
         },
         {
             "name": "Ratel MK3",
-            "description": "A formidable infantry fighting vehicle known for its mobility, firepower, and ability to support dismounted infantry in combat."
+            "description": "A formidable infantry fighting vehicle known for its mobility, firepower, and ability to support dismounted infantry in combat.",
+            "href": "/stores/ratel-mk3"
         },
         {
             "name": "Cobra 1",
-            "description": "A reliable and adaptable medium tactical vehicle designed for transport, logistics, and various support roles in the field."
+            "description": "A reliable and adaptable medium tactical vehicle designed for transport, logistics, and various support roles in the field.",
+            "href": "/stores/cobra-1"
         },
         {
             "name": "Cobra 2",
-            "description": "A modern armored fighting vehicle, offering enhanced protection and firepower for a variety of combat scenarios and troop transport."
+            "description": "A modern armored fighting vehicle, offering enhanced protection and firepower for a variety of combat scenarios and troop transport.",
+            "href": "/stores/cobra-2"
         },
         {
             "name": "RG - 31 Nyala",
-            "description": "A highly effective mine-resistant, ambush-protected vehicle, prioritizing crew survivability against blasts and IED threats."
+            "description": "A highly effective mine-resistant, ambush-protected vehicle, prioritizing crew survivability against blasts and IED threats.",
+            "href": "/stores/rg-31-nyala"
         },
         {
             "name": "MCAVE 001",
-            "description": "A versatile, multi-mission platform designed to be a Combat Vehicle in support of logistics and operations."
+            "description": "A versatile, multi-mission platform designed to be a Combat Vehicle in support of logistics and operations.",
+            "href": "/stores/mcave-001"
         }
     ]
 }

@@ -41,7 +41,7 @@ model Store {
   stationId       String // Foreign key referencing the station.
   station         Station                 @relation(fields: [stationId], references: [id], onDelete: Cascade) //Many to one relationship to the Station
   platformId      String // Foreign Key linking this Store to a Platform (using String id now, which I think will not work properly)
-  platform        MilitaryVehiclePlatform @relation(fields: [platformId], references: [id], onDelete: NoAction) //One to one platform
+  platform        MilitaryVehiclePlatform @relation(fields: [platformId], references: [id], onDelete: Cascade) //One to one platform
   numberOfRows    Int
   numberOfColumns Int
   shelves         Shelf[] // One-to-many with Shelves

@@ -1,210 +1,210 @@
 {
     "rg31Nyala": [
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Engine Filter",
             "unitOfMeasure": "PCS",
             "description": "High efficiency engine filter for optimal performance",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Hydraulic Fluid",
             "unitOfMeasure": "LTR",
             "description": "Premium hydraulic fluid for system lubrication",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Fuel Pump",
             "unitOfMeasure": "PCS",
             "description": "Durable fuel pump for reliable engine operation",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Transmission Belt",
             "unitOfMeasure": "MTR",
             "description": "Long-lasting belt for transmission system",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Radiator",
             "unitOfMeasure": "PCS",
             "description": "High performance radiator to manage engine temperature",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Oil Filter",
             "unitOfMeasure": "PCS",
             "description": "Standard oil filter to ensure clean lubrication",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Cooling Fan",
             "unitOfMeasure": "PCS",
             "description": "Replacement cooling fan for engine compartment",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Tire Assembly",
             "unitOfMeasure": "PCS",
             "description": "Heavy-duty tire assembly for rugged terrain",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Brake Pad",
             "unitOfMeasure": "PCS",
             "description": "High-performance brake pads for safety",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Suspension Spring",
             "unitOfMeasure": "PCS",
             "description": "Durable spring for improved suspension response",
             "reorderPoint": 5.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Battery",
             "unitOfMeasure": "PKG",
             "description": "Reliable battery pack for critical power supply",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Alternator",
             "unitOfMeasure": "PCS",
             "description": "High output alternator for efficient power generation",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Starter Motor",
             "unitOfMeasure": "PCS",
             "description": "Replacement starter motor for engine ignition",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Gearbox",
             "unitOfMeasure": "PCS",
             "description": "Robust gearbox for smooth transmission",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Exhaust Pipe",
             "unitOfMeasure": "PCS",
             "description": "Corrosion-resistant exhaust pipe",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Air Intake Hose",
             "unitOfMeasure": "MTR",
             "description": "Flexible air intake hose for clean engine air supply",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Turbocharger",
             "unitOfMeasure": "PCS",
             "description": "High performance turbocharger to boost engine output",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Water Pump",
             "unitOfMeasure": "PCS",
             "description": "Efficient water pump for coolant circulation",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Fuel Injector",
             "unitOfMeasure": "PCS",
             "description": "Precision fuel injector for improved combustion",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Spark Plug",
             "unitOfMeasure": "PCS",
             "description": "High durability spark plug for optimal ignition",
             "reorderPoint": 12.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Steering Column",
             "unitOfMeasure": "PCS",
             "description": "Replacement steering column component",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Shock Absorber",
             "unitOfMeasure": "PCS",
             "description": "High quality shock absorber for improved ride comfort",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Headlamp",
             "unitOfMeasure": "PCS",
             "description": "LED headlamp for enhanced visibility",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Tail Light Assembly",
             "unitOfMeasure": "PCS",
             "description": "Fully assembled tail light unit",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Mirror Assembly",
             "unitOfMeasure": "PCS",
             "description": "Side mirror assembly with integrated heating",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Door Lock Mechanism",
             "unitOfMeasure": "PCS",
             "description": "Secure door lock mechanism for crew safety",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Windshield Wiper Blade",
             "unitOfMeasure": "PCS",
             "description": "High performance wiper blade for all-weather visibility",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Seat Belt Assembly",
             "unitOfMeasure": "PKG",
             "description": "Fully compliant seat belt assembly for crew protection",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Control Panel Module",
             "unitOfMeasure": "PRS",
             "description": "Advanced control module for systems management",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "b8eecb78-08b9-4340-b9fc-20d837d13b5c",
+            "platformName": "RG - 31 Nyala",
             "name": "Navigation System",
             "unitOfMeasure": "PRS",
             "description": "Integrated navigation system for route planning",
@@ -213,210 +213,210 @@
     ],
     "tank5455": [
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Main Cannon Barrel",
             "unitOfMeasure": "PCS",
             "description": "Primary barrel for the main cannon, precision-engineered for high impact.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Armor Plating Kit",
             "unitOfMeasure": "PKG",
             "description": "Composite armor panels for reinforcing the tank hull.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Engine Assembly",
             "unitOfMeasure": "PCS",
             "description": "Complete engine unit ensuring optimum power generation.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Suspension Spring",
             "unitOfMeasure": "PCS",
             "description": "Heavy-duty spring to support the tank's suspension system.",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Track Assembly",
             "unitOfMeasure": "PCS",
             "description": "Fully assembled track system for improved mobility.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Tread Sprocket",
             "unitOfMeasure": "PCS",
             "description": "Durable sprocket for track engagement and movement.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Fuel Filter",
             "unitOfMeasure": "PCS",
             "description": "High performance fuel filter to ensure clean fuel delivery.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Hydraulic Pump",
             "unitOfMeasure": "PCS",
             "description": "Critical pump for hydraulic operations in turret and suspension.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Radiator Assembly",
             "unitOfMeasure": "PCS",
             "description": "Efficient radiator for maintaining engine temperature.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Transmission Gearbox",
             "unitOfMeasure": "PCS",
             "description": "Robust gearbox ensuring smooth power transmission.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Turret Rotation Motor",
             "unitOfMeasure": "PCS",
             "description": "Motor unit for precise turret rotation control.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Optical Sight",
             "unitOfMeasure": "PRS",
             "description": "High resolution sight for improved targeting accuracy.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Night Vision Module",
             "unitOfMeasure": "PRS",
             "description": "Infrared night vision system for low-light operations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Communication Antenna",
             "unitOfMeasure": "PCS",
             "description": "High-gain antenna for reliable field communications.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Exhaust System Component",
             "unitOfMeasure": "PCS",
             "description": "Replacement exhaust components to manage engine emissions.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Battery Pack",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery pack for electrical backup.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Diesel Fuel",
             "unitOfMeasure": "LTR",
             "description": "Premium diesel fuel for sustained engine performance.",
             "reorderPoint": 100.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Engine Oil",
             "unitOfMeasure": "LTR",
             "description": "High viscosity engine oil for lubrication and cooling.",
             "reorderPoint": 50.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Hydraulic Fluid",
             "unitOfMeasure": "LTR",
             "description": "Specialized hydraulic fluid for system efficiency.",
             "reorderPoint": 20.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Lubrication Grease",
             "unitOfMeasure": "KGS",
             "description": "Industrial grade grease for moving parts.",
             "reorderPoint": 15.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Spare Track Link",
             "unitOfMeasure": "PCS",
             "description": "Individual track link for quick repairs in the field.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Shock Absorber",
             "unitOfMeasure": "PCS",
             "description": "High-performance absorber to dampen impacts on rough terrain.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Electrical Wiring Harness",
             "unitOfMeasure": "MTR",
             "description": "Metered lengths of wiring for various electrical repairs.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Protective Sealant",
             "unitOfMeasure": "LTR",
             "description": "Sealant for waterproofing and rust prevention.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Command Module Screen",
             "unitOfMeasure": "PCS",
             "description": "Display unit for the tank's command and control system.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Pressure Gauge",
             "unitOfMeasure": "PCS",
             "description": "Accurate gauge for monitoring system pressures.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Fuel Injector",
             "unitOfMeasure": "PCS",
             "description": "Precision injector for efficient fuel combustion.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Spare Fasteners Kit",
             "unitOfMeasure": "PKG",
             "description": "Assorted bolts and nuts for various repair needs.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Navigation System Module",
             "unitOfMeasure": "PRS",
             "description": "Module to support the tank's integrated navigation system.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "a4f79c96-ec33-42b3-af9a-e1ebcf395e02",
+            "platformName": "Tank - 54/55",
             "name": "Fire Suppression Unit",
             "unitOfMeasure": "PKG",
             "description": "Critical system component for onboard fire suppression.",
@@ -425,210 +425,210 @@
     ],
     "ratelmk3": [
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Engine Filter",
             "unitOfMeasure": "PCS",
             "description": "High efficiency engine filter to maintain optimal engine performance.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Hydraulic Fluid",
             "unitOfMeasure": "LTR",
             "description": "Specialized hydraulic fluid for smooth operation of hydraulic systems.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Fuel Pump",
             "unitOfMeasure": "PCS",
             "description": "Reliable fuel pump ensuring consistent fuel delivery.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Transmission Belt",
             "unitOfMeasure": "MTR",
             "description": "Durable belt for efficient power transmission.",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Radiator Assembly",
             "unitOfMeasure": "PCS",
             "description": "High-performance radiator assembly to regulate engine temperature.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Oil Filter",
             "unitOfMeasure": "PCS",
             "description": "Standard oil filter for clean lubrication and engine health.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Cooling Fan",
             "unitOfMeasure": "PCS",
             "description": "Replacement cooling fan to ensure optimal air circulation.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Spare Tire",
             "unitOfMeasure": "PCS",
             "description": "Heavy-duty spare tire designed for off-road conditions.",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Brake Pad Set",
             "unitOfMeasure": "PKG",
             "description": "Complete set of brake pads for reliable stopping power.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Suspension Spring",
             "unitOfMeasure": "PCS",
             "description": "Robust spring to support and stabilize the suspension system.",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Battery Pack",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery pack to power critical systems.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Alternator",
             "unitOfMeasure": "PCS",
             "description": "Efficient alternator for reliable power generation.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Starter Motor",
             "unitOfMeasure": "PCS",
             "description": "Essential starter motor for engine ignition.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Gearbox",
             "unitOfMeasure": "PCS",
             "description": "Sturdy gearbox ensuring smooth power transfer.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Exhaust Pipe",
             "unitOfMeasure": "PCS",
             "description": "Corrosion-resistant exhaust pipe for efficient emission management.",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Air Intake Hose",
             "unitOfMeasure": "MTR",
             "description": "Flexible air intake hose for optimal engine air supply.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Turbocharger",
             "unitOfMeasure": "PCS",
             "description": "High-performance turbocharger to boost engine output.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Water Pump",
             "unitOfMeasure": "PCS",
             "description": "Efficient water pump for effective coolant circulation.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Fuel Injector",
             "unitOfMeasure": "PCS",
             "description": "Precision fuel injector for improved combustion efficiency.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Spark Plug",
             "unitOfMeasure": "PCS",
             "description": "Durable spark plug for reliable engine ignition.",
             "reorderPoint": 12.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Steering Column",
             "unitOfMeasure": "PCS",
             "description": "Replacement steering column component for improved control.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Shock Absorber",
             "unitOfMeasure": "PCS",
             "description": "High-quality shock absorber for a smoother ride on rough terrains.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Headlamp Assembly",
             "unitOfMeasure": "PCS",
             "description": "LED headlamp assembly for enhanced nighttime visibility.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Tail Light Assembly",
             "unitOfMeasure": "PCS",
             "description": "Fully integrated tail light unit for better rear visibility.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Mirror Assembly",
             "unitOfMeasure": "PCS",
             "description": "Side mirror assembly designed for optimal field of vision.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Door Lock Mechanism",
             "unitOfMeasure": "PCS",
             "description": "Secure door lock mechanism ensuring crew safety.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Windshield Wiper Blade",
             "unitOfMeasure": "PCS",
             "description": "High-performance wiper blade for clear visibility in all weather.",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Seat Belt Assembly",
             "unitOfMeasure": "PKG",
             "description": "Safety seat belt assembly compliant with military standards.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Control Panel Module",
             "unitOfMeasure": "PRS",
             "description": "Advanced control module for managing vehicle systems.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "0e448cee-cbd0-4a1f-86ae-2bb64d8ce2a0",
+            "platformName": "Ratel MK3",
             "name": "Communication Antenna",
             "unitOfMeasure": "PCS",
             "description": "High-gain antenna for reliable field communications.",
@@ -637,210 +637,210 @@
     ],
     "mcave001": [
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Navigation System Module",
             "unitOfMeasure": "PRS",
             "description": "Essential module for precise navigational data processing.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Communication Antenna",
             "unitOfMeasure": "PCS",
             "description": "High-gain antenna for reliable communication links.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Sensor Array",
             "unitOfMeasure": "PRS",
             "description": "Advanced sensor array for multi-spectrum detection.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Integrated Circuit Board",
             "unitOfMeasure": "PCS",
             "description": "Core circuit board supporting onboard systems.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Signal Processor Unit",
             "unitOfMeasure": "PCS",
             "description": "High-speed processor for signal analysis and data handling.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Power Distribution Module",
             "unitOfMeasure": "PRS",
             "description": "Module responsible for distributing power across systems.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Cooling Fan Assembly",
             "unitOfMeasure": "PCS",
             "description": "Efficient cooling fan to maintain optimal operating temperatures.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Air Filter Assembly",
             "unitOfMeasure": "PCS",
             "description": "Protects sensitive electronics from dust and contaminants.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Wiring Harness",
             "unitOfMeasure": "MTR",
             "description": "Essential wiring harness for robust electrical connectivity.",
             "reorderPoint": 15.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Battery Pack",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery pack for backup power supply.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Memory Module",
             "unitOfMeasure": "PRS",
             "description": "High-speed memory module for enhanced data processing.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Control Interface Panel",
             "unitOfMeasure": "PRS",
             "description": "User interface panel for system diagnostics and control.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Diagnostic Port",
             "unitOfMeasure": "PCS",
             "description": "Standard port for accessing system diagnostics and updates.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "LED Indicator Module",
             "unitOfMeasure": "PCS",
             "description": "LED module for status indication on various systems.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Circuit Breaker Unit",
             "unitOfMeasure": "PCS",
             "description": "Protective circuit breaker to safeguard electronic circuits.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Voltage Regulator",
             "unitOfMeasure": "PCS",
             "description": "Ensures stable voltage levels for sensitive components.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Thermal Insulation Pad",
             "unitOfMeasure": "KGS",
             "description": "High-performance insulation pad to manage system heat.",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Cable Connector",
             "unitOfMeasure": "PCS",
             "description": "Durable connector for secure cable connections.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Optical Fiber Cable",
             "unitOfMeasure": "MTR",
             "description": "High-speed fiber cable for data transmission.",
             "reorderPoint": 20.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Data Transmission Module",
             "unitOfMeasure": "PRS",
             "description": "Module dedicated to reliable data communication between subsystems.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Signal Booster",
             "unitOfMeasure": "PCS",
             "description": "Enhances the strength and clarity of incoming signals.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Grounding Strap",
             "unitOfMeasure": "PCS",
             "description": "Ensures proper grounding to protect sensitive electronics.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Backup Power Supply",
             "unitOfMeasure": "PKG",
             "description": "Portable backup power module for emergency operations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Sensor Calibration Kit",
             "unitOfMeasure": "PKG",
             "description": "Complete kit for calibrating and maintaining sensor accuracy.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Software Update USB",
             "unitOfMeasure": "PCS",
             "description": "USB drive preloaded with critical firmware updates.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "RF Filter",
             "unitOfMeasure": "PCS",
             "description": "Filters radio frequency interference from critical signals.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Antenna Mounting Bracket",
             "unitOfMeasure": "PCS",
             "description": "Robust bracket for secure antenna installation.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Protective Casing",
             "unitOfMeasure": "PCS",
             "description": "Impact-resistant casing for protecting electronic modules.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Heat Sink",
             "unitOfMeasure": "PCS",
             "description": "High-efficiency heat sink to dissipate system heat.",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "84b94d22-d130-4d17-90d5-2dc549af720b",
+            "platformName": "MCAVE 001",
             "name": "Environmental Sealing Gasket",
             "unitOfMeasure": "KGS",
             "description": "Durable gasket for preventing ingress of dust and moisture.",
@@ -849,210 +849,210 @@
     ],
     "arma8x8": [
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Engine Filter",
             "unitOfMeasure": "PCS",
             "description": "High efficiency engine filter for optimal engine performance.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Transmission Fluid",
             "unitOfMeasure": "LTR",
             "description": "Premium transmission fluid to ensure smooth gear shifts.",
             "reorderPoint": 8.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Drive Shaft",
             "unitOfMeasure": "PCS",
             "description": "Robust drive shaft for power transmission across the wheels.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Suspension Arm",
             "unitOfMeasure": "PCS",
             "description": "Durable suspension arm for enhanced ride stability.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Brake Disc",
             "unitOfMeasure": "PCS",
             "description": "High-performance brake disc for effective stopping power.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Wheel Assembly",
             "unitOfMeasure": "PCS",
             "description": "Complete wheel assembly designed for rugged terrain.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Fuel Injector",
             "unitOfMeasure": "PCS",
             "description": "Precision fuel injector for optimal combustion efficiency.",
             "reorderPoint": 4.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Air Intake Filter",
             "unitOfMeasure": "PCS",
             "description": "Efficient air intake filter to maintain engine health.",
             "reorderPoint": 7.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Radiator",
             "unitOfMeasure": "PCS",
             "description": "High performance radiator to manage engine temperature.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Cooling Fan",
             "unitOfMeasure": "PCS",
             "description": "Replacement cooling fan for optimal airflow and temperature control.",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Battery Pack",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery pack to power all onboard systems.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Alternator",
             "unitOfMeasure": "PCS",
             "description": "Efficient alternator for steady electrical output.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Starter Motor",
             "unitOfMeasure": "PCS",
             "description": "Reliable starter motor for rapid engine ignition.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Shock Absorber",
             "unitOfMeasure": "PCS",
             "description": "High quality shock absorber for improved ride comfort.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Axle Assembly",
             "unitOfMeasure": "PCS",
             "description": "Reinforced axle assembly built to withstand heavy loads.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Drive Belt",
             "unitOfMeasure": "MTR",
             "description": "Durable drive belt for efficient power distribution.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Oil Filter",
             "unitOfMeasure": "PCS",
             "description": "Standard oil filter for maintaining engine lubrication.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Headlamp Assembly",
             "unitOfMeasure": "PCS",
             "description": "High intensity headlamp assembly for superior visibility.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Tail Lamp Assembly",
             "unitOfMeasure": "PCS",
             "description": "Tail lamp assembly designed for clear rear signaling.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Windshield Wiper",
             "unitOfMeasure": "PCS",
             "description": "Durable wiper blade for clear visibility in adverse weather.",
             "reorderPoint": 7.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Control Module",
             "unitOfMeasure": "PRS",
             "description": "Advanced control module for managing vehicle systems.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Electrical Wiring Harness",
             "unitOfMeasure": "MTR",
             "description": "Robust wiring harness for secure electrical connectivity.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Diagnostic Interface",
             "unitOfMeasure": "PRS",
             "description": "Module for system diagnostics and troubleshooting.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Hydraulic Pump",
             "unitOfMeasure": "PCS",
             "description": "Efficient hydraulic pump for power steering and braking systems.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Tire Assembly",
             "unitOfMeasure": "PCS",
             "description": "All-terrain tire assembly designed for durability in the field.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Fuel Pump",
             "unitOfMeasure": "PCS",
             "description": "Reliable fuel pump ensuring consistent engine performance.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Brake Pad Set",
             "unitOfMeasure": "PKG",
             "description": "Complete set of brake pads for enhanced braking performance.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Turbocharger",
             "unitOfMeasure": "PCS",
             "description": "High performance turbocharger to boost engine output.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Exhaust Manifold",
             "unitOfMeasure": "PCS",
             "description": "Sturdy exhaust manifold for efficient engine breathing.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "4358d44d-2606-49c5-bf59-930e93af57b7",
+            "platformName": "Arma 8x8",
             "name": "Vehicle ECU",
             "unitOfMeasure": "PRS",
             "description": "Engine control unit for managing and optimizing engine performance.",
@@ -1061,210 +1061,210 @@
     ],
     "cobra1": [
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Infrared Sensor",
             "unitOfMeasure": "PCS",
             "description": "High precision infrared sensor for night vision and target detection.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Battery Pack",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery pack ensuring reliable power supply.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Laser Module",
             "unitOfMeasure": "PCS",
             "description": "High precision laser module for targeting and range finding.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Cooling System Fluid",
             "unitOfMeasure": "LTR",
             "description": "Specialized fluid to maintain optimal cooling of electronic systems.",
             "reorderPoint": 7.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Targeting Computer",
             "unitOfMeasure": "PRS",
             "description": "Advanced computer module for processing targeting data.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Optical Stabilizer",
             "unitOfMeasure": "PCS",
             "description": "Stabilizer component ensuring steady image capture under movement.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Precision Servo",
             "unitOfMeasure": "PCS",
             "description": "High-precision servo motor for fine control of movable parts.",
             "reorderPoint": 6.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Gyroscopic Stabilizer",
             "unitOfMeasure": "PRS",
             "description": "Module to maintain stability and counteract recoil effects.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "High-Res Camera",
             "unitOfMeasure": "PCS",
             "description": "High-resolution camera for enhanced surveillance and targeting.",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Data Link Transmitter",
             "unitOfMeasure": "PRS",
             "description": "Module for secure and rapid data transmission during operations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Control Interface",
             "unitOfMeasure": "PRS",
             "description": "User interface panel for managing Cobra 1’s systems.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Motion Detector",
             "unitOfMeasure": "PCS",
             "description": "Sensitive detector for monitoring movement around the platform.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Heat Sink Assembly",
             "unitOfMeasure": "PCS",
             "description": "Efficient heat sink to dissipate excess thermal energy.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Recoil Damper",
             "unitOfMeasure": "PCS",
             "description": "Damper to reduce recoil and improve system stability during fire.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Ammunition Feed Mechanism",
             "unitOfMeasure": "PRS",
             "description": "Precision mechanism for controlled ammunition delivery.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Fire Control System",
             "unitOfMeasure": "PRS",
             "description": "Integrated module for coordinating fire control operations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Signal Booster",
             "unitOfMeasure": "PCS",
             "description": "Enhances the strength and clarity of incoming and outgoing signals.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Environmental Sensor",
             "unitOfMeasure": "PRS",
             "description": "Monitors external conditions to optimize system performance.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Tactical Communication Module",
             "unitOfMeasure": "PRS",
             "description": "Enables secure tactical communications in the field.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Display Monitor",
             "unitOfMeasure": "PCS",
             "description": "High-definition monitor for real-time system feedback.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Cooled Processor Unit",
             "unitOfMeasure": "PRS",
             "description": "High-performance processor with integrated cooling for rapid data processing.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Microprocessor Board",
             "unitOfMeasure": "PCS",
             "description": "Core board handling various control and computation tasks.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Memory Module",
             "unitOfMeasure": "PRS",
             "description": "High-speed memory module to support system operations.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Solid State Drive",
             "unitOfMeasure": "PCS",
             "description": "Robust SSD for data storage and quick system boot-ups.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Cooling Fan Assembly",
             "unitOfMeasure": "PCS",
             "description": "Efficient cooling fan assembly to regulate processor temperature.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Voltage Regulator",
             "unitOfMeasure": "PCS",
             "description": "Ensures stable voltage levels for sensitive electronic components.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Connector Harness",
             "unitOfMeasure": "MTR",
             "description": "Metered length of connectors for reliable electrical connections.",
             "reorderPoint": 10.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Spare Wiring Kit",
             "unitOfMeasure": "PKG",
             "description": "Complete kit of wiring essentials for quick repairs.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Power Converter Module",
             "unitOfMeasure": "PRS",
             "description": "Converts power levels to match system requirements.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "bd1716b4-e2f9-4b48-b1e2-09f8302dddaf",
+            "platformName": "Cobra 1",
             "name": "Diagnostic Interface",
             "unitOfMeasure": "PRS",
             "description": "Interface module for system diagnostics and troubleshooting.",
@@ -1273,210 +1273,210 @@
     ],
     "cobra2": [
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Laser Guidance System",
             "unitOfMeasure": "PCS",
             "description": "Precision laser module for improved targeting accuracy.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Cooling Fluid for Laser",
             "unitOfMeasure": "LTR",
             "description": "Specialized cooling fluid designed for laser systems.",
             "reorderPoint": 5.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Target Acquisition Sensor",
             "unitOfMeasure": "PRS",
             "description": "Advanced sensor for rapid target detection and acquisition.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Infrared Targeting Camera",
             "unitOfMeasure": "PCS",
             "description": "High-resolution IR camera for low-light targeting.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Command Module Processor",
             "unitOfMeasure": "PRS",
             "description": "Core processor for managing command and control operations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Data Bus Cable",
             "unitOfMeasure": "MTR",
             "description": "High-speed data cable ensuring reliable system connectivity.",
             "reorderPoint": 15.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Servo Motor for Weapon Alignment",
             "unitOfMeasure": "PCS",
             "description": "High precision servo motor for fine weapon adjustments.",
             "reorderPoint": 4.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Stabilizing Gyroscope",
             "unitOfMeasure": "PRS",
             "description": "Gyroscope module for improved platform stability during firing.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Reactive Armor Module",
             "unitOfMeasure": "PKG",
             "description": "Armor package designed to reduce impact of incoming rounds.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Digital Display Unit",
             "unitOfMeasure": "PCS",
             "description": "High-definition display for real-time system monitoring.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Communication Relay Module",
             "unitOfMeasure": "PRS",
             "description": "Module for enhancing secure communication channels.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Fire Control Software Unit",
             "unitOfMeasure": "PRS",
             "description": "Software package to optimize fire control algorithms.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Precision Ammunition Feeder",
             "unitOfMeasure": "PRS",
             "description": "Mechanism for controlled ammunition delivery during engagements.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Integrated Circuit Board",
             "unitOfMeasure": "PCS",
             "description": "Core PCB for various electronic subsystems.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Power Supply Converter",
             "unitOfMeasure": "PCS",
             "description": "Module that converts power levels to suit system requirements.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "External Antenna Array",
             "unitOfMeasure": "PKG",
             "description": "High-gain antenna package for extended communication range.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Electro-Optical Filter",
             "unitOfMeasure": "PCS",
             "description": "Filter component for reducing glare and enhancing optical clarity.",
             "reorderPoint": 3.5
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Battery Unit",
             "unitOfMeasure": "PKG",
             "description": "High-capacity battery unit for uninterrupted system power.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "High-Speed Data Processor",
             "unitOfMeasure": "PRS",
             "description": "Advanced processor for rapid data computations.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Thermal Imaging Module",
             "unitOfMeasure": "PRS",
             "description": "Module for capturing thermal images in low-visibility conditions.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Microcontroller Board",
             "unitOfMeasure": "PCS",
             "description": "Compact board for managing system control tasks.",
             "reorderPoint": 3.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Signal Amplifier",
             "unitOfMeasure": "PCS",
             "description": "Amplifier to boost weak signals for better system performance.",
             "reorderPoint": 2.5
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Replacement Housing",
             "unitOfMeasure": "PCS",
             "description": "Durable housing component to protect sensitive electronics.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Cooling Radiator",
             "unitOfMeasure": "PCS",
             "description": "Efficient radiator for dissipating excess system heat.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Voltage Stabilizer",
             "unitOfMeasure": "PCS",
             "description": "Stabilizes voltage fluctuations to safeguard electronic components.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Environmental Sensor Module",
             "unitOfMeasure": "PRS",
             "description": "Monitors external conditions to adapt system performance.",
             "reorderPoint": 1.5
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Secure Data Storage",
             "unitOfMeasure": "PCS",
             "description": "Ruggedized storage device for critical operational data.",
             "reorderPoint": 2.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Optical Fiber Cable",
             "unitOfMeasure": "MTR",
             "description": "High-speed optical fiber cable for data transmission.",
             "reorderPoint": 20.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Control Panel Interface",
             "unitOfMeasure": "PRS",
             "description": "User interface module for seamless system control.",
             "reorderPoint": 1.0
         },
         {
-            "storeId": "ea3ea430-0834-45c1-9dde-9583cbca64fd",
+            "platformName": "Cobra 2",
             "name": "Diagnostic Module",
             "unitOfMeasure": "PRS",
             "description": "Integrated diagnostic unit for troubleshooting and system updates.",
